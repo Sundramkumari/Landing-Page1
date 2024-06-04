@@ -1,0 +1,302 @@
+#bg-image{
+height: 400px;
+width: 100%;
+}
+#image-text{
+    color: aliceblue;
+    margin-top: -190px;
+    margin-left: 100px;
+    font-size: 35px;
+}
+#img1{
+    height: 300px;
+    width: 300px;
+    margin-left: 350px;
+    margin-top: -250px;
+    margin-bottom: 34px;
+}
+#astonishing-text{
+    margin-left: 1020px;
+    margin-top: -55px;
+    font-size: 20px;
+    color: white;
+}
+#mesmerizing-text{
+    margin-left: 800px;
+    margin-top: -200px;
+    font-size: 20px;
+    color: white;
+}
+#icon{
+    margin-left: 1200px;
+    margin-top: -52px;
+}
+#img2{
+    height: 300px;
+    width: 400px;
+    margin-left: -0px;
+    margin-top: 188px;
+}
+#img3{
+    height: 300px;
+    width: 500px;
+    margin-left: -4px;
+    margin-top: -304px;
+    margin-bottom: 0px;
+}
+#img4{
+    height: 200px;
+    width: 400px;
+    margin-left: 900px;
+    margin-top: -104px;
+    margin-bottom: 25px;
+}
+#popular-text{
+    margin-top: -300px;
+    margin-left: 10%;
+}
+#popular-text1{
+    margin-top: -170px;
+    margin-left: 40%;
+}
+#popular-text-details1{
+    margin-top: 1px;
+    margin-left: 33%;
+}
+
+#popular-text-details2{
+    margin-top: -120px;
+    margin-left: 1080px;
+  
+}
+@media (max-width: 1024px) {
+#image-text{
+font-size: x-large;
+margin-top: -200px;
+
+}
+#img1{
+    height:250px;
+    width: 180px;
+    margin-left: 200px;
+    margin-top: -200px;
+    margin-bottom: 34px;
+}
+#astonishing-text{
+    margin-left: 450px;
+    margin-top: -55px;
+    font-size: 17px;
+    color: white;
+}
+#mesmerizing-text{
+    margin-left: 700px;
+    margin-top: -155px;
+    font-size: 17px;
+    color: white;
+}
+#icon{
+    margin-left: 900px;
+    margin-top: -42px;
+}
+#img2{
+    height: 250px;
+    width: 300px;
+    margin-left: 1px;
+    margin-top: 180px;
+}
+#img3{
+    height: 250px;
+    width: 400px;
+    margin-left: -5px;
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+#img4{
+    height: 250px;
+    width: 300px;
+    margin-left: 700px;
+    margin-top: -374px;
+    margin-bottom: 5px;
+}
+#popular-text{
+    margin-top: -240px;
+    margin-left: 10%;
+}
+
+#popular-text-details{
+font-size: 13.5px;
+}
+#popular-text1{
+    margin-top: -140px;
+    margin-left: 40%;
+}
+#popular-text-details1{
+    font-size: 13.5px;
+    margin-top: 1px;
+    margin-left: 33%;
+}
+
+#popular-text-details2{
+    margin-top: -100px;
+    margin-left: 800px;
+  
+}
+}
+@media (max-width: 768px) {
+    #image-text{
+    font-size: large;
+    margin-top: -200px;
+    margin-left: 3%;
+    
+    }
+    #img1{
+        height:250px;
+        width: 180px;
+        margin-left: 13%;
+        margin-top: -170px;
+        margin-bottom: 34px;
+    }
+    #astonishing-text{
+        margin-left: 42%;
+        margin-top: -55px;
+        font-size: 17px;
+        color: white;
+    }
+    #mesmerizing-text{
+        margin-left: 62%;
+        margin-top: -155px;
+        font-size: 17px;
+        color: white;
+    }
+    #icon{
+        margin-left: 82%;
+        margin-top: 44px;
+    }
+    #img2{
+        height:250px;
+        width:200;
+        margin-left: -1px;
+        margin-top:-50px;
+    }
+    #img3{
+        height: 250px;
+        width: 300px;
+        margin-top:105px;
+
+    }
+    #img4{
+        height: 180px;
+        width:150px;
+        margin-left: 600px;
+        margin-top: -774px;
+        margin-bottom: 5px;
+    }
+    #popular-text{
+        margin-top: -200px;
+        margin-left: 10%;
+    }
+    
+    #popular-text-details{
+    font-size: 12.5px;
+    }
+    #popular-text1{
+        margin-top: -140px;
+        margin-left: 55%;
+    }
+    #popular-text-details1{
+        font-size: 12.5px;
+        margin-top: 1px;
+        margin-left: 40%;
+    }
+    
+    #popular-text-details2{
+        margin-top: -100px;
+        margin-left: 620px;
+      
+    }
+    }
+    @media (max-width: 425px) {
+        #image-text{
+        font-size: large;
+        margin-top: -220px;
+        margin-left: 08px;
+        }
+        #bg-image{
+            height: 400px;
+            width: 200%;
+            }
+        #img1{
+            height:150px;
+            width: 100px;
+            margin-left: 18%;
+            margin-top: -150px;
+            margin-bottom: 34px;
+        }
+        #astonishing-text{
+            margin-left: 200px;
+            margin-top: -49px;
+            font-size: 17px;
+            color: white;
+        }
+        #mesmerizing-text{
+            margin-left: 302px;
+            margin-top: -90px;
+            font-size: 17px;
+            color: white;
+        }
+        #icon{
+            margin-left:110%;
+            margin-top:-50px;
+            margin-right: 80px;
+        
+           
+
+        }
+        #img2{
+            height:300px;
+            width:150%;
+            margin-left: -1px;
+            margin-top:140px;
+        }
+        #img3 , #img4 {
+            height: 360px;
+            width: 150%;
+            margin-top:-1%;
+           
+    
+        }
+        
+        #popular-text{
+            margin-top: -200px;
+            margin-left: 7%;
+        }
+        
+        #popular-text-details{
+        font-size: 12.5px;
+        margin-top: -88%;
+        margin-left: 75px;
+        }
+        #popular-text1{
+            margin-top: -140px;
+            margin-left: 55%;
+        }
+        #popular-text-details1{
+            font-size: 12.5px;
+            margin-top: 25%;
+            margin-left: 40%;
+        }
+        
+        #popular-text-details2{
+            margin-top: -100px;
+            margin-left: 0px;
+          
+        }
+        #img4{
+            height: 150px;
+            width:150%;
+            margin-top: 20px;
+            margin-left: -50%;
+            margin-right: 100%;
+            display: flex;
+        }
+        }
